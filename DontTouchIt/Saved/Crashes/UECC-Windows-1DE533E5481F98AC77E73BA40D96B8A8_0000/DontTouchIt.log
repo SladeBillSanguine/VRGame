@@ -1,0 +1,1570 @@
+﻿Log file open, 06/20/23 14:40:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=13536)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: DontTouchIt
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "C:\Users\lisav\Documents\Dokumente\Fresenius\Semester 4\VR und 360 Grad\VRGame\DontTouchIt\DontTouchIt.uproject"""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (22H2) [10.0.22621.1848] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="d34b5bec4aee11cd792d71a148f7ed5e"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.631473
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1DE533E5481F98AC77E73BA40D96B8A8
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Mac ini files took 0.14 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.15 seconds
+LogConfig: Display: Loading IOS ini files took 0.15 seconds
+LogConfig: Display: Loading TVOS ini files took 0.19 seconds
+LogConfig: Display: Loading Unix ini files took 0.19 seconds
+LogConfig: Display: Loading Android ini files took 0.20 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.08 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.23 seconds
+LogConfig: Display: Loading Linux ini files took 0.25 seconds
+LogConfig: Display: Loading Windows ini files took 0.10 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin OpenXR
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OculusVR
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/OpenXR/Content/' mounted to '/OpenXR/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Oculus/OculusVR/Content/' mounted to '/OculusVR/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed loading OVRPlugin 1.65.0
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (22H2) [10.0.22621.1848] (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.06.20-12.40.48:574][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.06.20-12.40.48:574][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:None]] deferred - dummy variable created
+[2023.06.20-12.40.48:574][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:None]] deferred - dummy variable created
+[2023.06.20-12.40.48:574][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.06.20-12.40.48:574][  0]LogConfig: CVar [[r.Mobile.AllowSoftwareOcclusion:0]] deferred - dummy variable created
+[2023.06.20-12.40.48:574][  0]LogConfig: CVar [[r.VT.EnableCompressZlib:1]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[r.VT.EnableCompressCrunch:0]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[r.DistanceFieldBuild.EightBit:0]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[r.GenerateLandscapeGIData:0]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[r.DistanceFieldBuild.Compress:0]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[TranslucentSortAxis:(X=0.000000,Y=-1.000000,Z=0.000000)]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[r.EyeAdaptation.EditorOnly:0]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[r.SSGI.Enable:0]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[bDefaultParticleCutouts:0]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[r.SupportAtmosphericFog:1]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[r.LightPropagationVolume:0]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[bStreamSkeletalMeshLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[bDiscardSkeletalMeshOptionalLODs:(Default=False,PerPlatform=())]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[VisualizeCalibrationCustomMaterialPath:None]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.06.20-12.40.48:575][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.06.20-12.40.48:575][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.06.20-12.40.48:575][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.06.20-12.40.48:577][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.06.20-12.40.48:580][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.06.20-12.40.48:580][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.06.20-12.40.48:580][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.06.20-12.40.48:580][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.06.20-12.40.48:580][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.06.20-12.40.48:580][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.06.20-12.40.48:580][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.06.20-12.40.48:580][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.06.20-12.40.48:580][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.06.20-12.40.48:580][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.06.20-12.40.48:580][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.06.20-12.40.48:600][  0]LogD3D12RHI: Aftermath initialized
+[2023.06.20-12.40.48:600][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.06.20-12.40.48:924][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2023.06.20-12.40.48:924][  0]LogHMD: Optional extension XR_KHR_binding_modification is not available
+[2023.06.20-12.40.48:924][  0]LogHMD: Optional extension XR_EXT_dpad_binding is not available
+[2023.06.20-12.40.48:925][  0]LogHMD: Initialized OpenXR on Oculus runtime version 1.86.0
+[2023.06.20-12.40.49:196][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 Ti with Max-Q Design (Max supported Feature Level 12_1, shader model 6.6)
+[2023.06.20-12.40.49:196][  0]LogD3D12RHI: Adapter has 5979MB of dedicated video memory, 0MB of dedicated system memory, and 8075MB of shared system memory, 1 output[s]
+[2023.06.20-12.40.49:374][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.5)
+[2023.06.20-12.40.49:374][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8075MB of shared system memory, 0 output[s]
+[2023.06.20-12.40.49:455][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.06.20-12.40.49:455][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8075MB of shared system memory, 0 output[s]
+[2023.06.20-12.40.49:455][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.06.20-12.40.49:455][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.20-12.40.49:455][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.06.20-12.40.49:455][  0]LogHAL: Display: Platform has ~ 16 GB [16935600128 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.20-12.40.49:455][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.06.20-12.40.49:455][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.06.20-12.40.49:455][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.20-12.40.49:456][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.06.20-12.40.49:456][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/Saved/Config/WindowsEditor/Editor.ini]
+[2023.06.20-12.40.49:456][  0]LogInit: Computer: LAPTOP-33KG95IL
+[2023.06.20-12.40.49:456][  0]LogInit: User: lisav
+[2023.06.20-12.40.49:456][  0]LogInit: CPU Page size=4096, Cores=6
+[2023.06.20-12.40.49:456][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.20-12.40.49:456][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2023.06.20-12.40.49:456][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.06.20-12.40.49:456][  0]LogMemory: Process Physical Memory: 293.72 MB used, 298.22 MB peak
+[2023.06.20-12.40.49:456][  0]LogMemory: Process Virtual Memory: 248.04 MB used, 248.04 MB peak
+[2023.06.20-12.40.49:456][  0]LogMemory: Physical Memory: 12941.47 MB used,  3209.58 MB free, 16151.05 MB total
+[2023.06.20-12.40.49:456][  0]LogMemory: Virtual Memory: 19828.27 MB used,  7074.78 MB free, 26903.05 MB total
+[2023.06.20-12.40.49:456][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.06.20-12.40.49:484][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.20-12.40.49:550][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.06.20-12.40.49:553][  0]LogInit: Using OS detected language (de-DE).
+[2023.06.20-12.40.49:553][  0]LogInit: Using OS detected locale (de-DE).
+[2023.06.20-12.40.49:570][  0]LogTextLocalizationManager: No specific localization for 'de-DE' exists, so 'de' will be used for the language.
+[2023.06.20-12.40.49:570][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/de/Editor.locres' could not be opened for reading!
+[2023.06.20-12.40.49:571][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/de/EditorTutorials.locres' could not be opened for reading!
+[2023.06.20-12.40.49:571][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/de/Keywords.locres' could not be opened for reading!
+[2023.06.20-12.40.49:571][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/de/Category.locres' could not be opened for reading!
+[2023.06.20-12.40.49:572][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/de/ToolTips.locres' could not be opened for reading!
+[2023.06.20-12.40.49:572][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/de/PropertyNames.locres' could not be opened for reading!
+[2023.06.20-12.40.49:572][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/de/Engine.locres' could not be opened for reading!
+[2023.06.20-12.40.49:576][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.20-12.40.49:618][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.06.20-12.40.49:618][  0]LogWindowsTextInputMethodSystem:   - Deutsch (Deutschland) - (Keyboard).
+[2023.06.20-12.40.49:619][  0]LogWindowsTextInputMethodSystem:   - Russisch (Russische Föderation) - (Keyboard).
+[2023.06.20-12.40.49:619][  0]LogWindowsTextInputMethodSystem:   - Englisch (Vereinigte Staaten) - (Keyboard).
+[2023.06.20-12.40.49:619][  0]LogWindowsTextInputMethodSystem:   - Deutsch (Deutschland) - Fingereingabe - Korrektur (TSF IME).
+[2023.06.20-12.40.49:620][  0]LogWindowsTextInputMethodSystem: Activated input method: Deutsch (Deutschland) - (Keyboard).
+[2023.06.20-12.40.49:656][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.20-12.40.49:657][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.20-12.40.50:336][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.06.20-12.40.50:345][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.06.20-12.40.50:345][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.06.20-12.40.50:588][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.06.20-12.40.50:718][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.06.20-12.40.50:748][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.06.20-12.40.50:829][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.06.20-12.40.50:872][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.06.20-12.40.50:873][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.06.20-12.40.50:968][  0]LogD3D12RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.20-12.40.50:968][  0]LogWindows: Attached monitors:
+[2023.06.20-12.40.50:968][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.06.20-12.40.50:968][  0]LogWindows: Found 1 attached monitors.
+[2023.06.20-12.40.50:968][  0]LogWindows: EnumDisplayDevices:
+[2023.06.20-12.40.50:969][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.06.20-12.40.50:969][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2023.06.20-12.40.50:970][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.06.20-12.40.50:970][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.06.20-12.40.50:970][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY5'
+[2023.06.20-12.40.50:971][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY6'
+[2023.06.20-12.40.50:971][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti with Max-Q Design' (P:0 D:0), name: '\\.\DISPLAY7'
+[2023.06.20-12.40.50:971][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2023.06.20-12.40.50:973][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti with Max-Q Design
+[2023.06.20-12.40.50:973][  0]LogD3D12RHI:   Driver Version: 526.56 (internal:31.0.15.2656, unified:526.56)
+[2023.06.20-12.40.50:973][  0]LogD3D12RHI:      Driver Date: 10-31-2022
+[2023.06.20-12.40.50:973][  0]LogRHI: Texture pool is 3282 MB (70% of 4689 MB)
+[2023.06.20-12.40.50:973][  0]LogD3D12RHI: Async texture creation enabled
+[2023.06.20-12.40.50:973][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.06.20-12.40.51:026][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.06.20-12.40.51:051][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/DontTouchIt.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/Intermediate/TurnkeyReport_0.log" -log="C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/Intermediate/TurnkeyLog_0.log" -project="C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/DontTouchIt.uproject"  -platform=all'
+[2023.06.20-12.40.51:051][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/DontTouchIt.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/Intermediate/TurnkeyReport_0.log" -log="C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/Intermediate/TurnkeyLog_0.log" -project="C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/DontTouchIt.uproject"  -platform=all" ]
+[2023.06.20-12.40.51:148][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.06.20-12.40.51:186][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.06.20-12.40.51:186][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.06.20-12.40.51:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.20-12.40.51:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.20-12.40.51:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.20-12.40.51:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.20-12.40.51:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.20-12.40.51:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.20-12.40.51:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.20-12.40.51:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.20-12.40.51:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.20-12.40.51:211][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.20-12.40.51:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.06.20-12.40.51:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.06.20-12.40.51:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.20-12.40.51:312][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.20-12.40.51:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.20-12.40.51:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.06.20-12.40.51:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.20-12.40.51:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.20-12.40.51:338][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.06.20-12.40.51:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.06.20-12.40.51:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.06.20-12.40.51:349][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.20-12.40.51:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.20-12.40.51:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.20-12.40.51:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.06.20-12.40.51:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.20-12.40.51:374][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.20-12.40.51:374][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.06.20-12.40.51:400][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.20-12.40.51:412][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.06.20-12.40.51:412][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.06.20-12.40.51:412][  0]LogTargetPlatformManager:   ADPCM
+[2023.06.20-12.40.51:412][  0]LogTargetPlatformManager:   PCM
+[2023.06.20-12.40.51:420][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.06.20-12.40.51:420][  0]LogTargetPlatformManager:   BINKA
+[2023.06.20-12.40.51:420][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.06.20-12.40.51:420][  0]LogTargetPlatformManager:   OGG
+[2023.06.20-12.40.51:420][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.06.20-12.40.51:420][  0]LogTargetPlatformManager:   OPUS
+[2023.06.20-12.40.51:575][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   SF_METAL
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.06.20-12.40.51:597][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.06.20-12.40.51:606][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.06.20-12.40.51:606][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.06.20-12.40.51:606][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.06.20-12.40.51:606][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.06.20-12.40.51:606][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.06.20-12.40.51:606][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.06.20-12.40.51:606][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.06.20-12.40.51:606][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.06.20-12.40.51:607][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.06.20-12.40.51:608][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.20-12.40.51:608][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.06.20-12.40.51:610][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.20-12.40.51:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.20-12.40.51:618][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.06.20-12.40.51:618][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.20-12.40.51:618][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.06.20-12.40.51:659][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.06.20-12.40.51:659][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.20-12.40.51:659][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.06.20-12.40.51:682][  0]LogDerivedDataCache: Speed tests for C:/Users/lisav/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2023.06.20-12.40.51:682][  0]LogDerivedDataCache: Display: Performance to C:/Users/lisav/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.12ms. RandomReadSpeed=146.62MBs, RandomWriteSpeed=66.06MBs. Assigned SpeedClass 'Local'
+[2023.06.20-12.40.51:683][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lisav/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.20-12.40.51:683][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.20-12.40.51:683][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.06.20-12.40.51:698][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.06.20-12.40.51:698][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.06.20-12.40.51:698][  0]LogShaderCompilers: Guid format shader working directory is -59 characters bigger than the processId version (../../../../../../Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/Intermediate/Shaders/WorkingDirectory/4020/).
+[2023.06.20-12.40.51:699][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lisav/AppData/Local/Temp/UnrealShaderWorkingDir/E9D66EA84C58B19F4145E883E41234BA/'.
+[2023.06.20-12.40.51:699][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.20-12.40.51:699][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2023.06.20-12.40.55:487][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.20-12.40.55:489][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.20-12.40.55:707][  0]LogAssetRegistry: FAssetRegistry took 0.0345 seconds to start up
+[2023.06.20-12.40.55:722][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.06.20-12.40.56:191][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.06.20-12.40.56:192][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.06.20-12.40.57:108][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.06.20-12.40.57:108][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.20-12.40.57:109][  0]LogDeviceProfileManager: Active device profile: [00000ADD530616C0][00000ADD473D7800 50] WindowsEditor
+[2023.06.20-12.40.57:109][  0]LogDeviceProfileManager: Profiles: [00000ADD53061180][00000ADD4A39C800 50] Windows, [00000ADD530616C0][00000ADD473D7800 50] WindowsEditor, [00000ADD53061A40][00000ADD45EB2800 50] WindowsServer, [00000ADD53061F80][00000ADD3A2C7800 50] WindowsClient, [00000ADD53060700][00000ADD47412800 50] IOS, [00000ADD53060E00][00000ADD473DA000 50] iPadAir2, [00000ADD530663C0][00000ADD53090000 50] IPadPro, [00000ADD53066740][00000ADD53092800 50] iPadAir3, [00000ADD53065940][00000ADD53097800 50] iPadAir4, [00000ADD53066900][00000ADD5309A000 50] iPadMini4, [00000ADD53066040][00000ADD5309C800 50] iPadMini5, [00000ADD53063800][00000ADD47410000 50] iPadMini6, [00000ADD53069680][00000ADD530A2800 50] iPhone6S, [00000ADD53069A00][00000ADD530A0000 50] iPhone7, [00000ADD53060FC0][00000ADD530A5000 50] iPodTouch7, [00000ADD53067A80][00000ADD530AA000 50] iPhone6SPlus, [00000ADD53063F00][00000ADD530AC800 50] iPhone7Plus, [00000ADD53061500][00000ADD53095000 50] iPhoneSE, [00000ADD53062140][00000ADD530A7800 50] iPhone8, [00000ADD53063B80][00000ADD530B0000 50] iPhone8Plus, [00000ADD53060000][00000ADD530B5000 50] iPhoneX, [00000ADD53062D80][00000ADD530B7800 50] iPhoneXS, [00000ADD53067700][00000ADD530BA000 50] iPhoneXSMax, [00000ADD53063D40][00000ADD530BC800 50] iPhoneXR, [00000ADD530694C0][00000ADD472AA000 50] iPhone11, [00000ADD53068F80][00000ADD530C0000 50] iPhone11Pro, [00000ADD53064B40][00000ADD530C5000 50] iPhone11ProMax, [00000ADD53062A00][00000ADD530C7800 50] iPhoneSE2, [00000ADD53061880][00000ADD530CA000 50] iPhone12Mini, [00000ADD53062BC0][00000ADD530CC800 50] iPhone12, [00000ADD53068A40][00000ADD530B2800 50] iPhone12Pro, [00000ADD53064980][00000ADD530D0000 50] iPhone12ProMax, [00000ADD53068180][00000ADD530D5000 50] iPhone13Mini, [00000ADD530678C0][00000ADD530D7800 50] iPhone13, [00000ADD53067E00][00000ADD530DA000 50] iPhone13Pro, [00000ADD53064280][00000ADD530DC800 50] iPhone13ProMax, [00000ADD530671C0][00000ADD530C2800 50] iPadPro105, [00000ADD53063100][00000ADD530E0000 50] iPadPro129, [00000ADD53064D00][00000ADD530E5000 50] iPadPro97, [00000ADD53068500][00000ADD530E7800 50] iPadPro2_129, [00000ADD53066AC0][00000ADD530EA000 50] iPad5, [00000ADD530647C0][00000ADD530EC800 50] iPad6, [00000ADD53065400][00000ADD530D2800 50] iPad7, [00000ADD53064440][00000ADD530F0000 50] iPad8, [00000ADD530608C0][00000ADD530F5000 50] iPad9, [00000ADD53065080][00000ADD530F7800 50] iPadPro11, [00000ADD53060A80][00000ADD530FA000 50] iPadPro2_11, [00000ADD530624C0][00000ADD530FC800 50] iPadPro3_11, [00000ADD53065780][00000ADD530E2800 50] iPadPro3_129, [00000ADD53060380][00000ADD53080000 50] iPadPro4_129, [00000ADD53065E80][00000ADD53085000 50] iPadPro5_129, [00000ADD53066E40][00000ADD53087800 50] AppleTV, [00000ADD53065B00][00000ADD5308A000 50] AppleTV4K, [00000ADD53069300][00000ADD5308C800 50] TVOS, [00000ADD5306B7C0][00000ADD53120000 50] Mac, [00000ADD5306BB40][00000ADD53122800 50] MacEditor, [00000ADD53060540][00000ADD53127800 50] MacClient, [00000ADD53066580][00000ADD5312A000 50] MacServer, [00000ADD5306BEC0][00000ADD530F2800 50] Linux, [00000ADD5306C240][00000ADD53082800 50] LinuxEditor, [00000ADD53064600][00000ADD5312C800 50] LinuxArm64Editor, [00000ADD5306A800][00000ADD53100000 50] LinuxArm64, [00000ADD5306BD00][00000ADD53105000 50] LinuxClient, [00000ADD530639C0][00000ADD53107800 50] LinuxArm64Client, [00000ADD53068C00][00000ADD5310A000 50] LinuxServer, [00000ADD53069D80][00000ADD5310C800 50] LinuxArm64Server, [00000ADD53067C40][00000ADD53125000 50] Android, [00000ADD53069840][00000ADD53110000 50] Android_Preview_OpenGL, [00000ADD530640C0][00000ADD53115000 50] Android_Preview_Vulkan, [00000ADD5306C780][00000ADD53117800 50] Android_Low, [00000ADD53068340][00000ADD5311A000 50] Android_Mid, [00000ADD5306C5C0][00000ADD5311C800 50] Android_High, [00000ADD5306A9C0][00000ADD53102800 50] Android_Default, [00000ADD5306B440][00000ADD53130000 50] Android_Adreno4xx, [00000ADD53065CC0][00000ADD53135000 50] Android_Adreno5xx_Low, [00000ADD53067380][00000ADD53137800 50] Android_Adreno5xx, [00000ADD53062680][00000ADD5313A000 50] Android_Adreno6xx, [00000ADD5306A2C0][00000ADD5313C800 50] Android_Adreno6xx_Vulkan, [00000ADD530632C0][00000ADD53112800 50] Android_Adreno7xx, [00000ADD5306B0C0][00000ADD53140000 50] Android_Adreno7xx_Vulkan, [00000ADD53062300][00000ADD53145000 50] Android_Mali_T6xx, [00000ADD53066200][00000ADD53147800 50] Android_Mali_T7xx, [00000ADD5306AF00][00000ADD5314A000 50] Android_Mali_T8xx, [00000ADD53068DC0][00000ADD5314C800 50] Android_Mali_G71, [00000ADD530686C0][00000ADD53132800 50] Android_Mali_G72, [00000ADD5306B980][00000ADD53160000 50] Android_Mali_G72_Vulkan, [00000ADD53061DC0][00000ADD53165000 50] Android_Mali_G76, [00000ADD5306C400][00000ADD53167800 50] Android_Mali_G76_Vulkan, [00000ADD53067540][00000ADD5316A000 50] Android_Mali_G77, [00000ADD53067FC0][00000ADD5316C800 50] Android_Mali_G77_Vulkan, [00000ADD5306AB80][00000ADD53142800 50] Android_Mali_G78, [00000ADD5306A640][00000ADD53170000 50] Android_Mali_G78_Vulkan, [00000ADD53066C80][00000ADD53175000 50] Android_Mali_G710, [00000ADD53068880][00000ADD53177800 50] Android_Mali_G710_Vulkan, [00000ADD5306C080][00000ADD5317A000 50] Android_Xclipse_920, [00000ADD53064EC0][00000ADD5317C800 50] Android_Xclipse_920_Vulkan, [00000ADD5306CE80][00000ADD53162800 50] Android_Vulkan_SM5, [00000ADD5306B280][00000ADD53180000 50] Android_PowerVR_G6xxx, [00000ADD5306D200][00000ADD53185000 50] Android_PowerVR_GT7xxx, [00000ADD5306CCC0][00000ADD53187800 50] Android_PowerVR_GE8xxx, [00000ADD5306D740][00000ADD5318A000 50] Android_PowerVR_GM9xxx, [00000ADD53063480][00000ADD5318C800 50] Android_PowerVR_GM9xxx_Vulkan, [00000ADD53065240][00000ADD53172800 50] Android_TegraK1, [00000ADD53069BC0][00000ADD53190000 50] Android_Unknown_Vulkan, [00000ADD5306DE40][00000ADD53195000 50] Oculus_Quest, [00000ADD5306A100][00000ADD53197800 50] Oculus_Quest2, [00000ADD530601C0][00000ADD5319A000 50] HoloLens, 
+[2023.06.20-12.40.57:109][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.06.20-12.40.57:116][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.06.20-12.40.57:116][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.06.20-12.40.57:116][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.06.20-12.40.57:116][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.06.20-12.40.57:116][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2023.06.20-12.40.57:178][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.06.20-12.40.57:701][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.20-12.40.57:701][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.20-12.40.57:701][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.20-12.40.57:701][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.20-12.40.57:701][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.20-12.40.57:746][  0]LogNetVersion: DontTouchIt 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 4076802473)
+[2023.06.20-12.40.58:084][  0]LogSlate: Border
+[2023.06.20-12.40.58:084][  0]LogSlate: BreadcrumbButton
+[2023.06.20-12.40.58:084][  0]LogSlate: Default
+[2023.06.20-12.40.58:084][  0]LogSlate: Icons.Save
+[2023.06.20-12.40.58:084][  0]LogSlate: Icons.Toolbar.Settings
+[2023.06.20-12.40.58:084][  0]LogSlate: ListView
+[2023.06.20-12.40.58:084][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.06.20-12.40.58:084][  0]LogSlate: SoftwareCursor_Grab
+[2023.06.20-12.40.58:084][  0]LogSlate: TableView.DarkRow
+[2023.06.20-12.40.58:084][  0]LogSlate: TableView.Row
+[2023.06.20-12.40.58:084][  0]LogSlate: TreeView
+[2023.06.20-12.40.58:528][  0]SourceControl: Source control is disabled
+[2023.06.20-12.40.58:616][  0]SourceControl: Source control is disabled
+[2023.06.20-12.40.58:618][  0]SourceControl: Source control is disabled
+[2023.06.20-12.40.58:906][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.06.20-12.40.58:938][  0]LogUObjectArray: 20625 objects as part of root set at end of initial load.
+[2023.06.20-12.40.58:938][  0]LogUObjectAllocator: 5604136 out of 0 bytes used by permanent object pool.
+[2023.06.20-12.40.58:938][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.20-12.41.00:059][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 521CCD27490D271882A47F8B78C00CB8 | Instance: 63C36BC042B5A77467F8299DC86E7DBE (LAPTOP-33KG95IL-4020).
+[2023.06.20-12.41.00:168][  0]LogPython: Using Python 3.9.7
+[2023.06.20-12.41.01:761][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.20-12.41.01:771][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.20-12.41.02:421][  0]SourceControl: Source control is disabled
+[2023.06.20-12.41.02:433][  0]SourceControl: Source control is disabled
+[2023.06.20-12.41.02:456][  0]SourceControl: Source control is disabled
+[2023.06.20-12.41.02:485][  0]LogUProjectInfo: Found projects:
+[2023.06.20-12.41.02:899][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.20-12.41.03:189][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.20-12.41.03:189][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.20-12.41.03:247][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.20-12.41.03:644][  0]LogCollectionManager: Loaded 0 collections in 0.004898 seconds
+[2023.06.20-12.41.03:920][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/Saved/Collections/' took 0.00s
+[2023.06.20-12.41.03:920][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/Content/Developers/lisav/Collections/' took 0.00s
+[2023.06.20-12.41.03:920][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/Content/Collections/' took 0.00s
+[2023.06.20-12.41.03:920][  0]LogOcInput: OculusInput pre-init called
+[2023.06.20-12.41.04:848][  0]LogEngine: Initializing Engine...
+[2023.06.20-12.41.05:183][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.06.20-12.41.05:819][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.20-12.41.05:821][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.20-12.41.05:853][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-12.41.05:905][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.20-12.41.05:906][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.20-12.41.05:951][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.20-12.41.05:952][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.20-12.41.05:952][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.06.20-12.41.05:953][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.20-12.41.05:953][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.20-12.41.05:954][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.20-12.41.05:954][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.20-12.41.05:954][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.20-12.41.05:954][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.20-12.41.05:954][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.20-12.41.05:954][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.20-12.41.05:954][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.20-12.41.05:954][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.20-12.41.05:955][  0]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.06.20-12.41.05:955][  0]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.06.20-12.41.05:955][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.20-12.41.05:978][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.20-12.41.06:102][  0]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (Oculus Virtual Audio Device)
+[2023.06.20-12.41.06:103][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.20-12.41.06:108][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.20-12.41.06:108][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.20-12.41.06:111][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.06.20-12.41.06:111][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.20-12.41.06:113][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.20-12.41.06:114][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.06.20-12.41.06:114][  0]LogInit: FAudioDevice initialized.
+[2023.06.20-12.41.06:114][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.20-12.41.06:114][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.20-12.41.06:114][  0]LogInit: Texture streaming: Enabled
+[2023.06.20-12.41.06:172][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.06.20-12.41.06:189][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.20-12.41.06:226][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.06.20-12.41.06:244][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.06.20-12.41.06:245][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.06.20-12.41.10:945][  0]LogLiveCoding: Display: First instance in process group "UE_DontTouchIt_0xa8bd9686", spawning console
+[2023.06.20-12.41.10:945][  0]LogLiveCoding: Display: Waiting for server
+[2023.06.20-12.41.10:945][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.06.20-12.41.11:022][  0]LogInit: Transaction tracking system initialized
+[2023.06.20-12.41.11:151][  0]BlueprintLog: New page: Editor Load
+[2023.06.20-12.41.11:521][  0]LocalizationService: Localization service is disabled
+[2023.06.20-12.41.11:607][  0]TimingProfiler: Initialize
+[2023.06.20-12.41.11:607][  0]TimingProfiler: OnSessionChanged
+[2023.06.20-12.41.11:607][  0]LoadingProfiler: Initialize
+[2023.06.20-12.41.11:608][  0]LoadingProfiler: OnSessionChanged
+[2023.06.20-12.41.11:608][  0]NetworkingProfiler: Initialize
+[2023.06.20-12.41.11:608][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.20-12.41.11:608][  0]MemoryProfiler: Initialize
+[2023.06.20-12.41.11:608][  0]MemoryProfiler: OnSessionChanged
+[2023.06.20-12.41.12:952][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lisav/Documents/Dokumente/Fresenius/Semester 4/VR und 360 Grad/VRGame/DontTouchIt/Content/' took 0.01s
+[2023.06.20-12.41.12:952][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.06.20-12.41.13:122][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.20-12.41.13:126][  0]SourceControl: Source control is disabled
+[2023.06.20-12.41.13:126][  0]LogUnrealEdMisc: Loading editor; pre map load, took 29.259
+[2023.06.20-12.41.13:127][  0]LightingResults: New page: Lighting Build
+[2023.06.20-12.41.13:138][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-12.41.13:138][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-12.41.13:138][  0]MapCheck: New page: Map Check
+[2023.06.20-12.41.13:138][  0]LightingResults: New page: Lighting Build
+[2023.06.20-12.41.13:152][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.20-12.41.13:156][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.06.20-12.41.15:148][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube should be resaved to improve async compilation performance.
+[2023.06.20-12.41.15:447][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'VRTemplateMap'.
+[2023.06.20-12.41.15:447][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.20-12.41.15:448][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-12.41.15:448][  0]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.06.20-12.41.15:473][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.20-12.41.15:498][  0]LogRenderer: Warning: Deprectaed CVar r.BasePassOutputsVelocity is set to 0. Remove and use r.VelocityOutputPass instead.
+[2023.06.20-12.41.15:498][  0]LogRenderer: Warning: Deprectaed CVar r.VertexDeformationOutputsVelocity is set to 0. Remove and use r.Velocity.EnableVertexDeformation instead.
+[2023.06.20-12.41.15:505][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.06.20-12.41.15:505][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.20-12.41.15:506][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,478ms to complete.
+[2023.06.20-12.41.15:506][  0]LogFileHelpers: Loading map 'VRTemplateMap' took 2.379
+[2023.06.20-12.41.15:543][  0]LogUnrealEdMisc: Total Editor Startup Time, took 31.677
+[2023.06.20-12.41.15:543][  0]LogShaderCompilers: Display: ================================================
+[2023.06.20-12.41.15:543][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.20-12.41.15:543][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.06.20-12.41.15:543][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.06.20-12.41.15:543][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2023.06.20-12.41.15:543][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.20-12.41.15:543][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.20-12.41.15:543][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.20-12.41.15:543][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.20-12.41.15:544][  0]LogShaderCompilers: Display: ================================================
+[2023.06.20-12.41.15:794][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-12.41.15:805][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-12.41.15:817][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-12.41.15:830][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-12.41.15:934][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.06.20-12.41.15:935][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-12.41.15:938][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.06.20-12.41.15:938][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-12.41.15:941][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.06.20-12.41.15:941][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-12.41.15:943][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.06.20-12.41.15:944][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-12.41.15:948][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.06.20-12.41.15:948][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-12.41.15:949][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.06.20-12.41.15:949][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-12.41.15:952][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.06.20-12.41.15:952][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-12.41.15:954][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.06.20-12.41.15:954][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-12.41.15:958][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.06.20-12.41.15:958][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-12.41.15:960][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.06.20-12.41.15:960][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.20-12.41.15:961][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.06.20-12.41.16:519][  0]LogSlate: Took 0.001420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.20-12.41.16:528][  0]LogSlate: Took 0.001225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.20-12.41.16:530][  0]LogSlate: Took 0.000954 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.20-12.41.16:578][  0]LogViewport: Scene viewport resized to 1523x848, mode Windowed.
+[2023.06.20-12.41.17:108][  0]LogStall: Startup...
+[2023.06.20-12.41.17:113][  0]LogStall: Startup complete.
+[2023.06.20-12.41.17:198][  0]LogLoad: (Engine Initialization) Total time: 33.33 seconds
+[2023.06.20-12.41.17:198][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.20-12.41.17:267][  0]LogAssetRegistry: Asset discovery search completed in 21.5626 seconds
+[2023.06.20-12.41.17:284][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000306 seconds (updated 0 objects)
+[2023.06.20-12.41.17:334][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.20-12.41.17:451][  0]LogSlate: Took 0.000908 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.20-12.41.17:653][  1]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_MenuLaser.NS_MenuLaser took 2.386928 sec, no shader worker used.
+[2023.06.20-12.41.17:660][  1]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_PlayAreaBounds.NS_PlayAreaBounds took 2.345446 sec, no shader worker used.
+[2023.06.20-12.41.17:694][  1]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.06.20-12.41.17:985][  1]LogSlate: Took 0.000498 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.20-12.41.18:076][  2]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportRing.NS_TeleportRing took 2.724957 sec, no shader worker used.
+[2023.06.20-12.41.18:077][  2]LogNavigationDataBuild: Navigation data generation finished in /Game/VRTemplate/Maps/VRTemplateMap.
+[2023.06.20-12.41.18:110][  3]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportTrace.NS_TeleportTrace took 2.696117 sec, no shader worker used.
+[2023.06.20-12.41.20:930][127]LogDebuggerCommands: Repeating last play command: VR Preview
+[2023.06.20-12.41.20:955][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.20-12.41.20:959][127]PIE: New page: PIE session: VRTemplateMap (20.06.2023, 16:41:20)
+[2023.06.20-12.41.20:963][127]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.06.20-12.41.20:965][127]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.20-12.41.20:967][127]LogPlayLevel: Creating play world package: /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.06.20-12.41.20:986][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019343s)
+[2023.06.20-12.41.20:986][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap to /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap (0.019745s)
+[2023.06.20-12.41.20:986][127]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.20-12.41.20:987][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.20-12.41.20:988][127]LogAIModule: Creating AISystem for world VRTemplateMap
+[2023.06.20-12.41.20:988][127]LogPlayLevel: PIE: World Init took: (0.001839s)
+[2023.06.20-12.41.21:008][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.06.20-12.41.21:011][127]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.20-12.41.21:011][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.20-12.41.21:011][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.20-12.41.21:011][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.20-12.41.21:011][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.20-12.41.21:012][127]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.20-12.41.21:012][127]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.20-12.41.21:012][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.20-12.41.21:012][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.20-12.41.21:012][127]LogAudio: Display: Audio Spatialization Plugin: Resonance Audio is external send: 1
+[2023.06.20-12.41.21:013][127]LogAudio: Display: Audio Reverb Plugin: Resonance Audio
+[2023.06.20-12.41.21:013][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.20-12.41.21:016][127]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.20-12.41.21:054][127]LogAudioMixer: Display: Using Audio Hardware Device Kopfhörer (Oculus Virtual Audio Device)
+[2023.06.20-12.41.21:054][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.20-12.41.21:054][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.20-12.41.21:054][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.20-12.41.21:056][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.06.20-12.41.21:056][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.06.20-12.41.21:059][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.06.20-12.41.21:059][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.06.20-12.41.21:059][127]LogInit: FAudioDevice initialized.
+[2023.06.20-12.41.21:059][127]LogAudio: Display: Audio Device (ID: 2) registered with world 'VRTemplateMap'.
+[2023.06.20-12.41.21:127][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-12.41.21:158][127]LogLoad: Game class is 'VRGameMode_C'
+[2023.06.20-12.41.21:168][127]LogWorld: Bringing World /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap.VRTemplateMap up for play (max tick rate 0) at 2023.06.20-14.41.21
+[2023.06.20-12.41.21:169][127]LogWorld: Bringing up level for play took: 0.010344
+[2023.06.20-12.41.21:174][127]LogOnline: OSS: Created online subsystem instance for: :Context_1
+[2023.06.20-12.41.21:188][127]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.06.20-12.41.21:288][127]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2023.06.20-12.41.21:291][127]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2023.06.20-12.41.21:312][127]Cmd: vr.PixelDensity 1.0
+[2023.06.20-12.41.21:317][127]vr.PixelDensity = "1"
+[2023.06.20-12.41.21:326][127]PIE: Server logged in
+[2023.06.20-12.41.21:331][127]PIE: Play in editor total start time 0,381 seconds.
+[2023.06.20-12.41.21:415][127]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.06.20-12.41.21:525][127]LogResonanceAudio: Display: Resonance Audio Listener is initialized
+[2023.06.20-12.41.21:590][127]LogRenderer: Warning: Resizing VR buffer to 3136 by 1728
+[2023.06.20-12.41.22:865][129]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2023.06.20-12.41.58:374][378]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:400][379]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:428][380]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:454][381]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:481][382]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:508][383]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:535][384]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:586][385]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:611][386]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:664][387]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:691][388]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:711][389]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:740][390]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:768][391]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:797][392]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:825][393]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:853][394]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:881][395]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:910][396]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:941][397]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.41.58:967][398]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:212][442]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:239][443]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:268][444]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:296][445]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:323][446]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:352][447]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:380][448]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:408][449]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:436][450]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:464][451]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:492][452]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:521][453]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:548][454]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:577][455]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:604][456]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:634][457]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:661][458]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:687][459]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:714][460]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:743][461]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:771][462]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:799][463]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:829][464]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:857][465]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:884][466]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:912][467]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:942][468]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:969][469]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.00:998][470]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:026][471]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:053][472]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:078][473]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:105][474]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:130][475]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:156][476]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:185][477]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:211][478]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:238][479]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:265][480]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:293][481]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:310][482]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:345][483]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:386][484]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:415][485]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:441][486]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:469][487]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:507][488]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:535][489]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:575][490]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:600][491]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:629][492]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:669][493]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:696][494]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:725][495]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:755][496]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:794][497]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:820][498]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:860][499]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:888][500]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:915][501]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:953][502]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.01:981][503]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:020][504]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:048][505]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:088][506]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:116][507]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:155][508]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:182][509]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:220][510]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:260][511]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:288][512]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:327][513]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:353][514]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:384][515]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:412][516]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:441][517]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:469][518]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:498][519]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:548][520]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:574][521]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:599][522]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:622][523]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:649][524]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:698][525]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:720][526]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:744][527]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:766][528]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:820][529]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:848][530]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:875][531]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:901][532]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:929][533]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:957][534]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.02:984][535]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:010][536]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:038][537]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:064][538]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:092][539]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:120][540]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:145][541]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:172][542]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:201][543]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:230][544]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:278][545]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:303][546]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:326][547]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:350][548]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:377][549]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:403][550]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:430][551]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:458][552]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:485][553]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:513][554]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:539][555]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:566][556]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:593][557]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:619][558]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:646][559]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:670][560]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:699][561]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:722][562]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:749][563]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:777][564]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:805][565]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:829][566]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:853][567]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:878][568]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:905][569]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:929][570]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:958][571]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.03:985][572]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:012][573]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:040][574]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:068][575]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:097][576]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:125][577]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:153][578]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:181][579]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:209][580]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:237][581]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:265][582]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:293][583]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:321][584]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:349][585]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:377][586]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:404][587]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:432][588]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:459][589]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:488][590]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:516][591]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:545][592]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:573][593]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:601][594]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:628][595]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:656][596]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:685][597]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:712][598]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:739][599]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:767][600]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:794][601]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:822][602]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:851][603]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:880][604]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:909][605]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:937][606]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:965][607]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.04:992][608]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:019][609]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:047][610]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:074][611]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:102][612]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:131][613]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:159][614]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:187][615]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:215][616]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:229][617]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:257][618]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:284][619]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:298][620]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:323][621]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:339][622]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:378][623]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:406][624]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:434][625]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:463][626]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:491][627]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:520][628]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:548][629]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:576][630]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:604][631]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:632][632]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:660][633]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:688][634]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:716][635]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:744][636]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:773][637]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:800][638]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:829][639]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:854][640]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:881][641]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:909][642]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:937][643]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:965][644]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.05:992][645]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:019][646]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:048][647]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:077][648]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:105][649]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:132][650]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:161][651]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:188][652]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:218][653]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:245][654]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:273][655]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:301][656]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:329][657]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:356][658]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:384][659]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:411][660]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:439][661]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:468][662]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:496][663]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:524][664]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:550][665]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:579][666]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:606][667]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:635][668]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:664][669]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:691][670]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:718][671]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:745][672]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:774][673]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:804][674]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:828][675]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:852][676]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:877][677]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:904][678]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:929][679]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.06:957][680]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:008][681]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:574][701]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:600][702]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:628][703]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:656][704]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:683][705]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:711][706]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:739][707]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:769][708]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:796][709]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:824][710]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:851][711]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:879][712]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:907][713]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:936][714]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:964][715]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.07:992][716]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:019][717]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:048][718]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:076][719]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:104][720]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:130][721]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:157][722]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:183][723]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:212][724]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:239][725]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:267][726]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:297][727]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:322][728]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:351][729]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:379][730]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:407][731]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:435][732]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:463][733]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:491][734]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:519][735]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:548][736]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:573][737]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:601][738]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:630][739]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:658][740]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:686][741]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:714][742]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:743][743]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:770][744]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:799][745]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:828][746]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:855][747]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:882][748]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:910][749]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:938][750]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:966][751]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.08:993][752]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:021][753]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:050][754]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:074][755]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:100][756]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:124][757]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:150][758]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:176][759]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:202][760]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:227][761]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:254][762]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:282][763]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:451][769]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:481][770]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:511][771]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:541][772]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:570][773]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:599][774]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:625][775]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:654][776]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:683][777]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:710][778]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:738][779]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:766][780]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:795][781]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:822][782]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:850][783]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:878][784]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:908][785]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:936][786]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:964][787]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.09:991][788]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:020][789]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:048][790]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:077][791]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:104][792]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:132][793]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:159][794]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:188][795]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:217][796]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:245][797]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:274][798]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:302][799]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:329][800]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:358][801]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:386][802]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:413][803]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:440][804]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:468][805]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:496][806]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:521][807]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:548][808]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:570][809]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:596][810]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:621][811]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:649][812]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:673][813]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:700][814]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:729][815]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:755][816]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:778][817]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:802][818]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:828][819]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:854][820]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:878][821]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:906][822]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:935][823]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:962][824]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.10:990][825]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:018][826]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:046][827]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:074][828]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:102][829]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:131][830]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:159][831]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:187][832]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:215][833]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:241][834]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:270][835]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:299][836]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:326][837]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:354][838]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:381][839]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:410][840]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:439][841]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:466][842]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:495][843]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:520][844]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:548][845]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:576][846]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:605][847]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:633][848]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:661][849]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:687][850]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:715][851]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:743][852]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:771][853]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:799][854]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:827][855]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:854][856]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:877][857]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:903][858]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:930][859]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:958][860]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.11:982][861]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:009][862]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:039][863]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:065][864]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:113][865]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:140][866]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:172][867]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:197][868]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:228][869]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:251][870]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:274][871]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:300][872]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:325][873]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:351][874]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:379][875]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:407][876]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:435][877]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:463][878]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:491][879]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:518][880]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:546][881]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:573][882]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:603][883]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:630][884]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:658][885]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:686][886]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:713][887]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:741][888]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:769][889]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:798][890]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:824][891]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:852][892]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:879][893]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:906][894]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:934][895]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:964][896]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.12:992][897]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:020][898]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:047][899]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:075][900]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:104][901]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:133][902]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:160][903]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:187][904]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:215][905]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:243][906]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:439][913]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:468][914]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:496][915]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:524][916]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:551][917]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:579][918]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:607][919]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:635][920]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:664][921]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:692][922]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:719][923]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:746][924]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:774][925]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:800][926]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:828][927]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:856][928]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:884][929]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:912][930]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:941][931]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:966][932]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.13:993][933]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:017][934]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:045][935]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:100][936]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:130][937]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:157][938]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:184][939]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:234][940]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:257][941]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:287][942]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:316][943]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:366][944]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:391][945]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:420][946]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:450][947]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:499][948]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:529][949]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:559][950]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:588][951]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:642][952]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:664][953]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:694][954]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:722][955]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:749][956]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:773][957]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:797][958]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:824][959]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:850][960]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:878][961]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:906][962]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:933][963]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:961][964]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.14:988][965]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:015][966]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:044][967]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:071][968]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:099][969]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:126][970]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:153][971]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:180][972]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:209][973]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:237][974]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:266][975]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:295][976]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:324][977]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:353][978]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:379][979]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:409][980]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:437][981]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:465][982]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:492][983]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:521][984]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:549][985]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:576][986]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:605][987]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:633][988]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:661][989]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:688][990]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:716][991]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:743][992]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:773][993]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:800][994]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:828][995]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:852][996]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:912][997]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:939][998]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.15:964][999]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:015][  0]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:038][  1]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:067][  2]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:098][  3]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:128][  4]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:155][  5]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:182][  6]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:209][  7]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:238][  8]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:265][  9]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:294][ 10]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:322][ 11]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:350][ 12]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:379][ 13]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:410][ 14]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:437][ 15]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:465][ 16]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:493][ 17]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:521][ 18]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:548][ 19]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:576][ 20]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:606][ 21]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:634][ 22]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:662][ 23]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:690][ 24]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:718][ 25]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:746][ 26]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:775][ 27]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:803][ 28]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:831][ 29]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:855][ 30]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:881][ 31]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:909][ 32]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:937][ 33]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:965][ 34]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.16:993][ 35]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:021][ 36]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:048][ 37]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:077][ 38]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:105][ 39]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:131][ 40]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:159][ 41]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:187][ 42]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:215][ 43]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:243][ 44]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:271][ 45]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:299][ 46]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:327][ 47]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:356][ 48]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:380][ 49]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:406][ 50]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:460][ 51]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:488][ 52]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:516][ 53]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:543][ 54]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:571][ 55]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:600][ 56]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:629][ 57]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:655][ 58]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:683][ 59]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:712][ 60]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:739][ 61]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:768][ 62]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:796][ 63]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:823][ 64]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:851][ 65]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:879][ 66]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:907][ 67]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:936][ 68]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:965][ 69]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.17:992][ 70]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:020][ 71]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:047][ 72]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:074][ 73]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:104][ 74]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:131][ 75]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:159][ 76]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:186][ 77]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:214][ 78]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:241][ 79]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:270][ 80]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:298][ 81]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:327][ 82]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:354][ 83]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:382][ 84]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:411][ 85]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:439][ 86]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:466][ 87]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:494][ 88]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:522][ 89]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:548][ 90]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:576][ 91]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:604][ 92]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:632][ 93]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:659][ 94]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:688][ 95]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:713][ 96]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:742][ 97]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:770][ 98]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:800][ 99]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:828][100]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.18:855][101]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:192][185]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:220][186]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:248][187]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:276][188]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:303][189]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:332][190]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:360][191]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:388][192]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:414][193]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:443][194]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:471][195]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:496][196]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:524][197]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:553][198]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:579][199]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:609][200]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:636][201]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:664][202]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:690][203]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:718][204]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:745][205]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:771][206]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:800][207]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:829][208]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:853][209]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:884][210]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:914][211]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:944][212]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.21:998][213]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:026][214]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:073][215]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:115][216]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:141][217]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:169][218]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:198][219]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:227][220]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:253][221]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:280][222]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:309][223]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:337][224]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:366][225]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:397][226]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:421][227]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:451][228]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:479][229]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:510][230]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:538][231]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:564][232]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:592][233]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:620][234]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:669][235]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:694][236]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:723][237]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:751][238]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:782][239]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:805][240]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:836][241]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:860][242]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:891][243]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:919][244]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:948][245]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.22:977][246]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:001][247]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:026][248]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:048][249]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:074][250]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:098][251]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:125][252]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:154][253]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:180][254]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:208][255]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:235][256]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:261][257]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:290][258]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:339][259]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:364][260]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:393][261]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:422][262]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:450][263]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:480][264]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:508][265]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:537][266]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:566][267]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:594][268]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:624][269]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:653][270]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:681][271]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:708][272]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:734][273]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:762][274]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:790][275]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:818][276]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:845][277]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:872][278]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:900][279]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:929][280]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:958][281]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.23:985][282]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.24:015][283]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.24:042][284]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.24:070][285]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.24:097][286]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.24:124][287]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.24:150][288]LogBlueprintUserMessages: [Drawer2_C_1] X=-190.000 Y=-18.000 Z=-0.900
+[2023.06.20-12.42.37:312][809]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.20-12.42.37:313][809]LogWorld: BeginTearingDown for /Game/VRTemplate/Maps/UEDPIE_0_VRTemplateMap
+[2023.06.20-12.42.37:411][809]LogSlate: Window 'DontTouchIt Preview [NetMode: Standalone]  (64-bit/SM5) OpenXR Oculus (1.86.0)' being destroyed
+[2023.06.20-12.42.37:422][809]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.20-12.42.37:426][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-12.42.37:457][809]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.20-12.42.37:465][809]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.20-12.42.37:485][809]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.20-12.42.37:488][809]LogResonanceAudio: Display: Resonance Audio Listener is shutdown
+[2023.06.20-12.42.37:489][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.20-12.42.37:492][809]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.20-12.42.37:513][809]LogSlate: Slate User Unregistered.  User Index 8
+[2023.06.20-12.42.37:515][809]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2023.06.20-12.42.37:518][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.06.20-12.42.37:555][810]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2023.06.20-12.42.40:479][975]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Eigenarbeit/BP/Drawer2.Drawer2
+[2023.06.20-12.42.40:481][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
